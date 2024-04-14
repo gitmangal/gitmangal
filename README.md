@@ -26,15 +26,23 @@ This portfolio serves as a repository for showcasing my projects, sharing my exp
 * Contact
 
 
-### Education
+## Education and Certificats
 
-***Bachelor of Science - `MATHEMATICS`***
-IGNOU, NEW DELHI [2024]
+> ***Bachelor of Science - `MATHEMATICS`***
+
+  IGNOU, NEW DELHI [2024]
 
 
-***Data Science Mentorship Program***
-CampusX [2023]
+> ***Data Science Mentorship Program***
 
-***Python programming and Data Science***
-National Institute of Electronics and Information Technology [2022]
+  CampusX [2023]
+
+> ***Python programming and Data Science***
+
+  National Institute of Electronics and Information Technology [2022]
+
+## Contact
+
+* Linkdin - [@Mangla_gupta]()
+* Email - mam66371@gmail.com
 
