@@ -11,5 +11,30 @@ This portfolio serves as a repository for showcasing my projects, sharing my exp
 
 * <a href="#about">About</a>
 * Portfolio Projects
-   * Python
+  * Python
        * [Gurugram Real State Data Analysis]()
+       * [Indian Startup Ecosystem Analysis]()
+       * [Data Analysis On Titanic Dataset]()
+  * SQL
+      * [Case Study on Zomato]()
+      * [Flights Dashboard]()
+  * PowerBI
+      * [Sales Dashboard]()
+  * Excel/Google Sheets
+
+* Education and Certificats
+* Contact
+
+
+### Education
+
+***Bachelor of Science - `MATHEMATICS`***
+IGNOU, NEW DELHI [2024]
+
+
+***Data Science Mentorship Program***
+CampusX [2023]
+
+***Python programming and Data Science***
+National Institute of Electronics and Information Technology [2022]
+
