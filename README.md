@@ -1,7 +1,15 @@
 # 👋 Hi, I’m Mangal gupta
-### About me
-I am Mangal Gupta, a passionate and aspiring data scientist with a strong drive to explore the limitless possibilities of data. My educational background includes a graduation in Mathematics and a comprehensive Data Analytics course completed on Coursera. 
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning **Machine learning** from [CampusX](https://learnwith.campusx.in)
-- 📫 How to reach me mam66371@gmail.com
+## About me
 
+<p id= "about"> Hello, I'm Mangla Gupta, a recent graduate with a degree in Mathematics. Currently, I serve as a Data Analyst Trainer at ICCVS Computer Education. My expertise lies in teaching Microsoft Excel, Python, SQL, and PowerBI, fueled by a passion for uncovering insights through data analysis. With a strong foundation in Mathematics, I'm excited to transition into the field of data science as a data specialist.</p>
+
+Throughout my academic and professional journey, I've developed advanced skills in data management and statistical analysis, honing my ability to work with complex datasets. In my free time, I enjoy exploring new data analysis tools and techniques, constantly seeking opportunities to expand my knowledge and skills.
+
+This portfolio serves as a repository for showcasing my projects, sharing my expertise, and tracking my progress in Data Analytics and Data Science. Join me on this exciting journey of continuous learning and exploration in the realm of data
+
+## Table Of Contents
+
+* <a href="#about">About</a>
+* Portfolio Projects
+   * Python
+       * [Gurugram Real State Data Analysis]()
