@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mangla gupta
-## About me
+## About me <p id="about"></p>
 
-<p id= "about"> Hello, I'm Mangla Gupta, a recent graduate with a degree in Mathematics. Currently, I serve as a Data Analyst Trainer at ICCVS Computer Education. My expertise lies in teaching Microsoft Excel, Python, SQL, and PowerBI, fueled by a passion for uncovering insights through data analysis. With a strong foundation in Mathematics, I'm excited to transition into the field of data science as a data specialist.</p>
+<p> Hello, I'm Mangla Gupta, a recent graduate with a degree in Mathematics. Currently, I serve as a Data Analyst Trainer at ICCVS Computer Education. My expertise lies in teaching Microsoft Excel, Python, SQL, and PowerBI, fueled by a passion for uncovering insights through data analysis. With a strong foundation in Mathematics, I'm excited to transition into the field of data science as a data specialist.</p>
 
 Throughout my academic and professional journey, I've developed advanced skills in data management and statistical analysis, honing my ability to work with complex datasets. In my free time, I enjoy exploring new data analysis tools and techniques, constantly seeking opportunities to expand my knowledge and skills.
 
