@@ -12,11 +12,11 @@ This portfolio serves as a repository for showcasing my projects, sharing my exp
 * <a href="#about">About</a>
 * Portfolio Projects
   * Python
-       * [Gurugram Real State Data Analysis]()
-       * [Indian Startup Ecosystem Analysis]()
-       * [Data Analysis On Titanic Dataset]()
+       * [Gurugram Real State Data Analysis](https://github.com/gitmangal/gurgaon_real_estate_analysis)
+       * [Indian Startup Ecosystem Analysis](https://github.com/gitmangal/Indian_startup_funding_Analsis)
+       * [Data Analysis On Titanic Dataset](https://github.com/gitmangal/titanic_analysis)
   * SQL
-      * [Case Study on Zomato]()
+      * [Case Study on Zomato](https://medium.com/@mam66371/my-first-sql-project-b4291de9fbe4)
       * [Flights Dashboard]()
   * PowerBI
       * [Sales Dashboard]()
