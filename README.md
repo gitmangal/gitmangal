@@ -15,7 +15,7 @@ This portfolio serves as a repository for showcasing my projects, sharing my exp
        * [Gurugram Real State Data Analysis](https://github.com/gitmangal/gurgaon_real_estate_analysis)
        * [Indian Startup Ecosystem Analysis](https://github.com/gitmangal/Indian_startup_funding_Analsis)
        * [Data Analysis On Titanic Dataset](https://github.com/gitmangal/titanic_analysis)
-       * [Data Analysis On IPL Dataset]()
+       * [Data Analysis On IPL Dataset](https://github.com/gitmangal/EDA_on_IPL)
   * SQL
       * [Case Study on Zomato](https://medium.com/@mam66371/my-first-sql-project-b4291de9fbe4)
       * [Flights Dashboard]()
