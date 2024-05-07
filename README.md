@@ -21,7 +21,7 @@ This portfolio serves as a repository for showcasing my projects, sharing my exp
       * [Flights Dashboard]()
   * PowerBI
       * [Super Store Sales Dashboard](https://github.com/gitmangal/Annual_sale_report_dashboard)
-      * [Ecommerce Sales Dashboard]()
+      * [Ecommerce Sales Dashboard](https://github.com/gitmangal/Ecommerce-Sales-Dashboard)
   * Excel/Google Sheets
 
 * Education and Certificats
