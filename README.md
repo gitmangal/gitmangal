@@ -20,7 +20,8 @@ This portfolio serves as a repository for showcasing my projects, sharing my exp
       * [Case Study on Zomato](https://medium.com/@mam66371/my-first-sql-project-b4291de9fbe4)
       * [Flights Dashboard]()
   * PowerBI
-      * [Sales Dashboard]()
+      * [Super Store Sales Dashboard](https://github.com/gitmangal/Annual_sale_report_dashboard)
+      * [Ecommerce Sales Dashboard]()
   * Excel/Google Sheets
 
 * Education and Certificats
